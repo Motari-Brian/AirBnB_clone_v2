@@ -141,22 +141,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <br>
 
-Original Author:
-<p align="center">
-Justin Majetich -  <a href="https://github.com/justinmajetich">
-<img src="https://img.shields.io/badge/Justin-mainPage-blue">
-</a>
-</p>
 
-After Authors:
-<p align="center">
-Miguel Grillo -  <a href="https://github.com/Ineffable22">
-<img src="https://img.shields.io/badge/Miguel-mainPage-blue">
-</a>
-</p>
 
-<p align="center">
-Gonzalo Flores - <a href="https://github.com/zye7ert">
-<img src="https://img.shields.io/badge/Jeshua-mainPage-blue">
-</a>
-</p>
